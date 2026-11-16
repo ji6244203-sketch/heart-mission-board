@@ -3,6 +3,9 @@
 매일의 공부 미션을 체크하고 **하트 도장**을 모으는 어린이 칭찬 스티커판입니다.
 핑크·파스텔 공주 테마, 하트 모양 도장, 30칸 스티커판.
 
+**라이브 주소:** <https://ji6244203-sketch.github.io/heart-mission-board/>  
+(GitHub Pages · 저장소 <https://github.com/ji6244203-sketch/heart-mission-board>)
+
 - 파일: `index.html` 하나로 동작합니다 (CSS·JS 모두 안에 들어 있음)
 - 폰 세로 화면(390×844) 기준으로 만들었고, 320px 폭에서도 가로 스크롤이 없습니다
 - 기록은 **이 기기 브라우저의 localStorage** 에만 저장됩니다. 서버로 보내는 코드가 없습니다
